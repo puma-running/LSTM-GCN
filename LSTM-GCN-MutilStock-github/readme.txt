@@ -1,1 +1,0 @@
-The main of the proposed model LSTM-GCN is testing\BackTestModelOnStockIndexs.py
